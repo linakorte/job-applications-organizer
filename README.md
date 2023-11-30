@@ -34,4 +34,4 @@ A registered user can fully access the application:
 - Spring Framework 3.1.5
 - Spring Data
 - Spring Security
-- MySql 8
+- MySQL 8
